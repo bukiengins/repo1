@@ -1,0 +1,9 @@
+<employee>
+  <id>1</id>
+  <ad>Buket</ad>
+  <soyad>Huy</soyad>
+  <dogum_tarihi>1996-12-03</dogum_tarihi>
+  <pozisyon>Integration Engineer</pozisyon>
+  <maas>2000.00</maas>
+  <aktif>true</aktif>
+</employee>
